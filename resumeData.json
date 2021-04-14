@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Hamza Mazhar",
+    "occupation":"Software Engineer (MERN STACK)",
+    "description":"I'm Software Engineer, currently studying at TU Dortmund master Data Science also I works a full stack software engineer across the range of  products, as well being integration specialist. ",
+    "image":"profile.jpg",
+    "bio":"A results-driven, customer-focused, articulate and analytical Software Engineer who can think “out of the box”. As well\nI am equally successful in both team and self-directed settings. My objective is to work in a competitive environment that\neffectively utilizes my analytical and technical skills.",
+    "contactmessage":"Will be happy to hear from you.Use my email address",
+    "email": "hamza.mazhar56@gmail.com",
+    "phone": "NULL",
+    "address":{
+      "street":"DORTMUND",
+      "city":"DORTMUND",
+      "state":"North Rhine-Westphalia",
+      "zip": "44227"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/hamza-mazhar-943bab10a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/hamza-mazhar",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"TU Dortmund (Germany)",
+        "degree":"Masters in Data Science",
+        "graduated":"Expected April 2023",
+        "description":"The two-year Master's program in Data Science builds on the Bachelor's program started in summer semester. It is a joint proj\u00ADect of the Faculties of Statistics, Computer Science, and Mathematics, under the lea\u00ADder\u00ADship of the Faculty of Statistics."
+      },
+      {
+        "school":"University of Engineering and Technology Lahore (Pakistan)",
+        "degree":"Bachelor of Science In Computer Science",
+        "graduated":"August 2018",
+        "description":"Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
+      },
+      {
+        "school":"Government College University (Pakistan)",
+        "degree":"High School Certificate",
+        "graduated":"September 2014",
+        "description":"Here I earned the university entrance certificate."
+      }
+    ],
+    "work":[
+      {
+        "company":"Contegris, Lahore (Pakistan)",
+        "title":"MERN Stack Developer",
+        "years":"Feb 2020 - March 2021",
+        "description": "I have worked as a Full Stack Software Engineer. Here I have had the chance to dig in and get my hands dirty with all parts of our software. I have worked with our NodeJS backend, as well as built new node-based servers for new products. As well, I led the development of V2 of our web application written in React JS. I have worked extensively with React/Redux as well as with react hooks. \n\nMore recently, I have been given the opportunity to lead our integrations module."
+      },
+      {
+        "company":"Kinectro, Lahore (Pakistan)",
+        "title":"Associate Software Engineer",
+        "years":"August 2018 - February 2020",
+        "description": "As an Javascript developer core responsibility  Web development using ReactJs, also experienced in Node/Express Backend development. Provide with the best quality of code with excellent coding styles and proper coding standards"
+      },
+      {
+        "company":"KICS, Lahore (Pakistan)",
+        "title":"Internship",
+        "years":"December 2017 - April 2018",
+        "description": "Develop the Games using Unity Game Engine"
+      },
+      {
+        "company":"Techlogix, Lahore (Pakistan)",
+        "title":"Internship",
+        "years":"June 2018 - August 2018",
+        "description": "Worked there in .Net "
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"80%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Intellicon",
+        "category":"Intelligent Contact Center",
+        "image":"int1.PNG",
+        "url":"https://www.intellicon.io"
+      },
+      {
+        "title":"WhatsApp Business Services",
+        "category":"Provide the WhatsApp Business Solution Api Integration",
+        "image":"int2.PNG",
+        "url":"https://www.intellicon.io/whatsapp-business-solution/"
+      },
+      {
+        "title":"BlockBid",
+        "category":"Crypto Currency Exchange",
+        "image":"int3.PNG",
+        "url":"https://www.blockbid.io/"
+      },
+      {
+        "title":"SocialBite",
+        "category":"Provide the E-Commerce Solution",
+        "image":"int4.PNG",
+        "url":"https://socialbite.io/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Hamzaamazhar was very approachable and willing to go the extra mile to understand what was being asked. He is focused on delivering satisfaction. I would not hesitate to recommend him. Great job",
+        "user":"Beosribo"
+      },
+      {
+        "text":"He is very responsive, ensure that he understands the requirement.",
+        "user":"Steve Wozniak"
+      }
+    ]
+  }
+}
